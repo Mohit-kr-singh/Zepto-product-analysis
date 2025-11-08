@@ -80,7 +80,6 @@ These findings help understand market positioning and pricing strategy.
 - **PostgreSQL** for storing and querying the dataset
 - **SQL** for data cleaning and business-focused queries
 - **Python (pandas, SQLAlchemy)** for data extraction and exploration
-- **Matplotlib / Seaborn** for visual analysis
 - Data cleaning included renaming columns, removing invalid values, standardizing prices, and verifying stock data
 - Analysis focused on pricing, discounts, category performance, and inventory insights
 
